@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">D Launcher</string>
+    <string name="widget">Widget</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="theme">Theme Pack</string>
+</resources>
